@@ -1,0 +1,79 @@
+.clickable {
+    cursor: pointer;
+}
+
+.slidable {
+    transform: translate3d(0px, 0px, 0px);
+}
+
+.icon {
+    width: 45px;
+}
+
+.navBar {
+    padding: 20px 0;
+    height: 58px;
+}
+
+.loginForm {
+    margin-top: 80px;
+    padding: 20px 0;
+}
+
+.loginForm .btnContainer {
+    margin-top: 10px;
+}
+
+.loginForm .btnContainer .btn {
+    margin: 5% 0;
+    padding: 3%;
+}
+
+.content {
+    margin-top: 30px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.podcast {
+    width: 70%;
+    margin: 20px 15%;
+    border: 3px solid #bbb;
+    border-radius: 5px;
+    background: white;
+    padding: 5%;
+}
+
+.podcast audio {
+    width: 70%;
+}
+
+.office_hours form {
+    margin: 10px 0;
+}
+
+.socialMediaLinks {
+    width: 70%;
+    margin: 5% 15% 10% 15%;
+}
+
+.socialMediaLinks a {
+    font-size: 300%;
+}
+
+.ion-social-instagram {
+    margin: 0 34px;
+}
+
+.icon-container {
+    min-width: 180px;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 40%;
+    margin: 0 30%;
+}
