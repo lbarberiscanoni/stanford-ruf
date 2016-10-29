@@ -48,6 +48,7 @@
 
 .podcast audio {
     width: 70%;
+    max-width: 100px;
 }
 
 .office_hours form {
